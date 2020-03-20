@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I have both installed, but I'm using  Python 3 because it's recommended (because of HackerRank, and because it's more modern anyway).
 
 ### Q2. Which Python Version Installed   
 
@@ -55,8 +55,4 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
-
-
+Python 3.6.9
